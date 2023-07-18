@@ -59,43 +59,57 @@ __um7__
 
 ## Narzędzia
 
-__n1__
+__Jira__
   * opis
   * opis
 
-__n2__
+__TestRail__
   * opis
   * opis
 
-__n3__
+__SoapUI__
   * opis
   * opis
 
-__n4__
+__Postman__
   * opis
   * opis
 
-__n5__
+__MySQL Workbench__
   * opis
   * opis
+
+__Trello i Notion__
+  * opis
+  * opis
+
+__Narzędzia deweloperskie przeglądarki__
+  * opis
+  * opis
+
+__Charles Proxy__
+  * opis
+  * opis
+
 
 
 ## Kursy i certyfikaty
 
-__nazwa kursu__  
-*twórca kursu*  
-opis kursu  
-[Link do certyfikatu](https://)  
+__Certyfikat ISTQB® CTFL__  
+[Link do certyfikatu](https://) 
+- w trakcie
 
-__nazwa kursu__  
-*twórca kursu*  
-opis kursu  
+__Kurs tester oprogramowania (manualny)__  
+*prowadzony przez szkołę IT [Coders Lab](https://coderslab.pl/)*  
+Kompleksowy kurs (168h) przyuczający do zawodu testera manualnego. Nauka niezbędnych technik i narzędzi stosowanych w pracy testera manualnego podczas teoretycznych jak i praktycznych zajęć.
 [Link do certyfikatu](https://)  
+- w trakcie
 
-__nazwa kursu__  
-*twórca kursu*  
-opis kursu  
+__Kurs Complete SQL Mastery__  
+*kurs online stworzony przez Mosh Hamedani, [Code with Mosh](https://codewithmosh.com/p/complete-sql-mastery)*  
+Obszerny kurs (11h), pozwalający na uzyskanie umiejętności z zakresu relacyjnych baz danych i SQL. Obejmuje wiele zagadnień od podstawowywch, tj. tworzenie i zarządzanie bazami danych, nauka składni i poleceń SQL, nauka technik sortowania i filtrowania danych, aż po bardziej zaawansowane, czyli np. pisanie wydajnych, zoptymalizowanych i złożonych zapytań SQL.
 [Link do certyfikatu](https://)  
+- w trakcie
 
 
 ## Przykładowe prace
