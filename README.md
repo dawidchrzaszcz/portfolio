@@ -128,3 +128,5 @@ Obszerny kurs (11h), pozwalający na uzyskanie umiejętności z zakresu relacyjn
 
 __"[Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)"__ Piotr Wicherski - zbiór przykładowych materiałów i kroków, wiodących do zostania lepszym testerem oprogramowania.
 
+__"[ZAWÓD TESTER Od decyzji do zdobycia doświadczenia](https://www.ibuk.pl/fiszka/193868/zawod-tester.html)"__ Radosław Smilgin (2018) - **w trakcie**
+
