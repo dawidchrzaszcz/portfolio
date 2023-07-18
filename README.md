@@ -2,14 +2,14 @@
 - [O mnie](#o-mnie)
 - [CV](#cv)
 - [Umiejętności](#umiejętności)
-- [Narzędzia](#narzędzia)
+- [Tech Stack](#tech-stack)
 - [Kursy i certyfikaty](#kursy-i-certyfikaty)
 - [Przykładowe prace](#przykładowe-prace)
   * [Praca 1](#praca1)
   * [Praca 2](#praca2)
   * [Praca 3](#praca3)
   * [Praca 4](#praca4)
-- [Przeczytane książki](#przeczytane-książki)
+- [Książki specjalistyczne](#książki-specjalistyczne)
 
 
 
@@ -57,7 +57,7 @@ __um7__
   * opis
 
 
-## Narzędzia
+## Tech Stack
 
 __Jira__
   * opis
@@ -95,21 +95,21 @@ __Charles Proxy__
 
 ## Kursy i certyfikaty
 
-__Certyfikat ISTQB® CTFL__  
+__Certyfikat ISTQB® CTFL__  **w trakcie**
 [Link do certyfikatu](https://) 
-- w trakcie
 
-__Kurs tester oprogramowania (manualny)__  
+
+__Kurs tester oprogramowania (manualny)__  **w trakcie**
 *prowadzony przez szkołę IT [Coders Lab](https://coderslab.pl/)*  
 Kompleksowy kurs (168h) przyuczający do zawodu testera manualnego. Nauka niezbędnych technik i narzędzi stosowanych w pracy testera manualnego podczas teoretycznych jak i praktycznych zajęć.
 [Link do certyfikatu](https://)  
-- w trakcie
 
-__Kurs Complete SQL Mastery__  
+
+__Kurs Complete SQL Mastery__  **w trakcie**
 *kurs online stworzony przez Mosh Hamedani, [Code with Mosh](https://codewithmosh.com/p/complete-sql-mastery)*  
 Obszerny kurs (11h), pozwalający na uzyskanie umiejętności z zakresu relacyjnych baz danych i SQL. Obejmuje wiele zagadnień od podstawowywch, tj. tworzenie i zarządzanie bazami danych, nauka składni i poleceń SQL, nauka technik sortowania i filtrowania danych, aż po bardziej zaawansowane, czyli np. pisanie wydajnych, zoptymalizowanych i złożonych zapytań SQL.
 [Link do certyfikatu](https://)  
-- w trakcie
+
 
 
 ## Przykładowe prace
@@ -124,7 +124,7 @@ Obszerny kurs (11h), pozwalający na uzyskanie umiejętności z zakresu relacyjn
   * jaka praca [opis](https://).
 
 
-## Przeczytane książki
+## Książki specjalistyczne
 
-__"nazwaksiazki"__ autor - opis
+__"[Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)"__ Piotr Wicherski - zbiór przykładowych materiałów i kroków, wiodących do zostania lepszym testerem oprogramowania.
 
